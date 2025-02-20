@@ -52,3 +52,53 @@ header {
   padding: 1em;
   transition: .5s ease-in;
 }
+.real-time-interface__select {
+  margin-bottom: 20px;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.file-upload-container {
+  margin: 20px 0;
+}
+
+.file-upload-input {
+  margin: 10px 0;
+}
+
+.file-requirements {
+  margin: 15px 0;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  border-left: 4px solid #17a2b8;
+}
+
+.file-requirements__text {
+  color: #2c3e50;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+}
+
+.file-requirements__subtext {
+  color: #6c757d;
+  font-size: 0.9em;
+  margin: 0;
+}
+
+.file-upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.file-upload-input {
+  margin: 10px 0;
+}
+
+audio {
+  margin: 10px 0;
+}
